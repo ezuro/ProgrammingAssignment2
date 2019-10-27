@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These matrces create a new invertible Matrix and then retrieve its inverse by either generating it from scratch 
+## if it hasn't been generated or by retrieving it from the R cache if it was already defined
 
 ## Similar to the function that return the mean as described in the example
 ## my function returns a list of functions to get and set a matrix and its inverse.   
